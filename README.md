@@ -1,5 +1,12 @@
-# adanegbeamadasun.github.io
+# IT
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+
+### Education
+Computer Engeering Technologist
+
+
+
+### Work Experience
+
+
+### Project
