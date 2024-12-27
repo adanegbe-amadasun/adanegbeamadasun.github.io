@@ -9,10 +9,9 @@ My journey in IT has has led me to develop a passion for cybersecurity, and I am
 ## Education
 Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
-##Work History
+## Work History
 ** Mammoet (April 2022 - Present_)**
 IT
-
 
 **Tri-Phase Group  (June 2021 – April 2022 )**
 IT Coordinator 
