@@ -1,6 +1,5 @@
 title: Adanegbe Amadasun
 logo: /Github Files/Profile Pic.jpg
-#logo:
 #description: text below image
-#show_download: true
+show_download: true
 theme: jekyll-theme-minimal
