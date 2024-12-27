@@ -7,7 +7,7 @@ Computer Engeering Technologist
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**IT @ Mammoet (April 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 - Execute workspace service requests using tools like TopDesk and CTM in correlation with the ISM method.
@@ -26,7 +26,7 @@ Computer Engeering Technologist
 
                                                               
 
-**IT Coordinator @ Tri-Phase Group  Mississauga, ON (June 2021 – April 2022 )**
+**IT Coordinator @ Tri-Phase Group  (June 2021 – April 2022 )**
 - Troubleshooting and maintaining the company server, laptops, and other equipment to ensure minimum downtime. 
 - Ensuring the company server and software are fully functional and with maximum security. 
 - Maintaining, troubleshooting, and ensuring implementation of company software and programs (Corecon, QuickBooks, Asset Inventory System, GPS Tracking, etc.)
