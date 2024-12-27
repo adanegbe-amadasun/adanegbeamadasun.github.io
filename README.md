@@ -10,21 +10,20 @@ Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
 ## Work Experience
 **IT @ Mammoet (April 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-- Execute workspace service requests using tools like TopDesk and CTM in correlation with the ISM method.
-- Preparing laptops, desktops and workspace for use
-- Proactively monitor the ICT production environment
-- Improving existing workflows and procedures
-- Providing comprehensive technical support services to the Client’s internal customers and service providers.
-- Support outsourced activities by implementing the technical part of designed solutions of third parties.
-- Assess reported issues and as necessary work directly with employees for escalation and timely issue resolution.
-- Replicate and resolve employee incidents in the software & hardware environment.
-- Self-monitoring of Help Desk tickets to ensure proper escalation and resolution of incidents consistent with the agreed SLA’s Communication with several IT Infrastructure support groups to appropriately escalate incidents and follow up on incidents to drive resolution for the employees.
-- Create and submit detailed call logs documenting customer interactions to be inclusive of accuracy, thoroughness, and timeliness.
-- Contribute current technical information and best practices concerning proprietary applications.
-- Performing customer support related tasks and special projects assigned by the management.
-- Liaising interdepartmentally to seek resolutions to all issues reported.
+- ### Key Points Summary:
+
+- **Service Request Execution:** Utilize tools like TopDesk and CTM following the ISM method to manage workspace service requests.  
+- **Device Preparation:** Set up laptops, desktops, and workspaces for use.  
+- **Proactive Monitoring:** Oversee the ICT production environment to identify and resolve issues.  
+- **Workflow Improvement:** Enhance existing workflows and procedures.  
+- **Technical Support:** Provide in-depth technical support to internal customers and service providers, including outsourced activities.  
+- **Issue Resolution:** Assess, replicate, and resolve employee-reported issues in software and hardware environments, escalating as needed.  
+- **Help Desk Management:** Self-monitor and manage Help Desk tickets, ensuring timely escalation and resolution per SLA standards.  
+- **Interdepartmental Coordination:** Communicate with IT Infrastructure groups and other departments to resolve incidents effectively.  
+- **Documentation:** Create detailed and accurate logs of customer interactions.  
+- **Knowledge Sharing:** Share technical knowledge and best practices regarding proprietary applications.  
+- **Customer Support Projects:** Undertake assigned tasks and projects related to customer support.  
+- **Collaboration:** Work across teams to resolve reported issues comprehensively.  .
 
                                                               
 
