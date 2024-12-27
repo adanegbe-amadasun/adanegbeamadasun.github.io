@@ -10,8 +10,6 @@ Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
 ## Work Experience
 **IT @ Mammoet (April 2022 - Present_)**
-- ### Key Points Summary:
-
 - **Service Request Execution:** Utilize tools like TopDesk and CTM following the ISM method to manage workspace service requests.  
 - **Device Preparation:** Set up laptops, desktops, and workspaces for use.  
 - **Proactive Monitoring:** Oversee the ICT production environment to identify and resolve issues.  
@@ -28,15 +26,14 @@ Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
                                                               
 
 **IT Coordinator @ Tri-Phase Group  (June 2021 – April 2022 )**
-- Troubleshooting and maintaining the company server, laptops, and other equipment to ensure minimum downtime. 
-- Ensuring the company server and software are fully functional and with maximum security. 
-- Maintaining, troubleshooting, and ensuring implementation of company software and programs (Corecon, QuickBooks, Asset Inventory System, GPS Tracking, etc.)
-- Setting up all new employees with the necessary hardware/software required for their role.
-- Performing diagnostic techniques for in house and jobsite
-- Monitoring system and network performance and organize maintenance activities (such as backups, updates, hard drives replacement)
-- Performing data recovery operations
-- Monitoring security and maintenance of computer and network systems
-- Managing technical vendor relationship Liaising with third-party hardware/software providers to resolve all IT related issues to ensure minimum downtime. 
+- **Server and Equipment Maintenance:** Troubleshoot and maintain servers, laptops, and other equipment to minimize downtime.  
+- **Security Management:** Ensure maximum security and functionality for company servers and software.  
+- **Software Support:** Maintain and troubleshoot company software (e.g., Corecon, QuickBooks, Asset Inventory System, GPS Tracking) and ensure proper implementation.  
+- **Employee Setup:** Provide new employees with necessary hardware and software for their roles.  
+- **Diagnostics and Performance Monitoring:** Perform diagnostics on-site and in-house, monitor system and network performance, and organize maintenance activities (e.g., backups, updates, hardware replacement).  
+- **Data Recovery:** Perform data recovery operations when necessary.  
+- **Security Oversight:** Monitor security and maintenance of IT systems.  
+- **Vendor Management:** Liaise with third-party vendors to resolve IT-related issues efficiently.  
 
 
 ### Project
