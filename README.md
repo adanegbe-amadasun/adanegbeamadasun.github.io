@@ -2,7 +2,9 @@
 
 
 ## Education
-Computer Engeering Technologist
+
+Certified in Cybersecurity | (2024 - 2025) 
+Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
 
 
