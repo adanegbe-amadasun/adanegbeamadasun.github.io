@@ -10,10 +10,11 @@ My journey in IT has has led me to develop a passion for cybersecurity, and I am
 Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
 ## Work History
-IT @ Mammoet (April 2022 - Present)
+Mammoet &nbsp;&nbsp;&nbsp;&nbsp; (April 2022 - Present)
+IT
 
-IT Coordinator @ Tri-Phase Group (June 2021 – April  2022) 
- 
+Tri-Phase Group &nbsp;&nbsp;&nbsp;&nbsp; (June 2021 – April  2022) 
+IT Coordinator
 
 ## Certification
 Certified in Cybersecurity | (2025) 
