@@ -11,10 +11,10 @@ Computer Engeering Technology (Advanced Diploma) | (2013 -2017)
 
 ## Work History
 <p> Mammoet | (January 2025 - January 2026) <br>
-BAS </p>
+Business Application Support </p>
 
 <p> Mammoet | (April 2022 - December 2025) <br>
-IT </p>
+IT Support </p>
 
 <p> Tri-Phase Group | (June 2021 – April  2022) <br>
 IT Coordinator </p>
@@ -23,5 +23,4 @@ IT Coordinator </p>
 Certified in Cybersecurity | (2025) 
 
 ## Skills
-Windows, Active Directory , Microsoft 365, Hardware/Software T roubleshooting, Application Support,
-ITSM Processes, Workstation Setup, System Maintenance SAP, SharePoint, CRM, End-User Support
+Windows, SAP, SharePoint, CRM, O365, End-User Support, Active Directory, Hardware/Software Troubleshooting, Application Support, ITSM Processes, Workstation Setup, System Maintenance, 
